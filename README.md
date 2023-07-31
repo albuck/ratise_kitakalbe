@@ -3,6 +3,7 @@
 
 --------------------------------------------------------------------
 
+
 ## RATISĖS GERMANIŠKAS IŠDĖSTYMAS
 
 ![Ratisės germaniškas išdėstymas](images/kb-lt-ratise-germanic.svg)
@@ -17,6 +18,7 @@ Ratisės germaniškasis išdėstymas leidžia patogiau rinkti tekstus germanų k
 
 Tai yra papildomas Ratisės išdėstymas, kuriame graikiškos raidės išdėstytos vietoje lietuviškųjų pagal garso ar kitą panašumą.
 Ratisės graikiškasis išdėstymas leidžia patogiau rinkti tekstus graikų kalba.
+
 
 ## RATISĖS LATVIŠKAS IŠDĖSTYMAS
 
