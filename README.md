@@ -3,6 +3,7 @@
 
 --------------------------------------------------------------------
 
+<br>
 
 ## RATISĖS GERMANIŠKAS IŠDĖSTYMAS
 
@@ -22,7 +23,6 @@ Ratisės graikiškasis išdėstymas leidžia patogiau rinkti tekstus graikų kal
 
 <br>
 
-
 ## RATISĖS LATVIŠKAS IŠDĖSTYMAS
 
 ![Ratisės latviškas išdėstymas](images/kb-lt-ratise-latvian.svg)
@@ -32,13 +32,14 @@ Ratisės latviškasis išdėstymas leidžia patogiai rinkti tekstus latvių kalb
 
 <br>
 
-
 ## RATISĖS KIRILICA (RUSŲ) IŠDĖSTYMAS
 
 ![Ratisės kirilicos rusiškas išdėstymas](images/kb-lt-ratise-cyrillic.svg)
 
 Tai yra papildomas Ratisės išdėstymas, kuriame kirilicos raidės išdėstytos vietoje lietuviškųjų pagal garso ar kitą panašumą.
 Ratisės Kirilica išdėstymas leidžia rinkti tekstus rusų bei kitomis kirilicą vartojančiomis kalbomis.
+
+<br>
 
 -----------------------------------------
 
