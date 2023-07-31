@@ -41,5 +41,5 @@ Ratisės Kirilica išdėstymas leidžia rinkti tekstus rusų bei kitomis kirilic
 
 -----------------------------------------
 
-- Klaviatūros valdyklių diegimo ypatumai yra tie patys kaip ir lietuviško Ratisės išdėstymo.
+- Šių klaviatūros valdyklių diegimo ypatumai yra tie patys kaip ir lietuviško Ratisės išdėstymo.
 - [Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ arba Ratisė](https://albuck.github.io/Ratise-layout/)
