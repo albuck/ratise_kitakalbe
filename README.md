@@ -3,6 +3,21 @@
 
 --------------------------------------------------------------------
 
+## RATISĖS GERMANIŠKAS IŠDĖSTYMAS
+
+![Ratisės germaniškas išdėstymas](images/kb-lt-ratise-germanic.svg)
+
+Tai yra papildomas Ratisės išdėstymas, kuriame germanų kalbų raidės išdėstytos vietoje lietuviškųjų pagal garso ar kitą panašumą.
+Ratisės germaniškasis išdėstymas leidžia patogiau rinkti tekstus germanų kalbomis.
+
+
+## RATISĖS GRAIKIŠKAS IŠDĖSTYMAS
+
+![Ratisės graikiškas išdėstymas](images/kb-lt-ratise-greek.svg)
+
+Tai yra papildomas Ratisės išdėstymas, kuriame graikiškos raidės išdėstytos vietoje lietuviškųjų pagal garso ar kitą panašumą.
+Ratisės graikiškasis išdėstymas leidžia patogiau rinkti tekstus graikų kalba.
+
 ## RATISĖS LATVIŠKAS IŠDĖSTYMAS
 
 ![Ratisės latviškas išdėstymas](images/kb-lt-ratise-latvian.svg)
