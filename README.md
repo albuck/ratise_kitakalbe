@@ -1,8 +1,6 @@
 
 # RATISĖS PAPILDOMIEJI KITAKALBIAI IŠDĖSTYMAI
 
---------------------------------------------------------------------
-
 <br>
 
 ## RATISĖS GERMANIŠKAS IŠDĖSTYMAS
