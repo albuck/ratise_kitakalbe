@@ -1,5 +1,5 @@
 // Lithuanian Ratise Latvian Phonetic keymap by Algirdas Buckus <algirdasbuckus@gmail.com>
-// last changes 2020/12/24
+// last changes 2023/08/26
 
 default  partial alphanumeric_keys modifier_keys
 xkb_symbols "ratiselv" {
@@ -44,8 +44,8 @@ xkb_symbols "ratiselv" {
     key <AC07> { [          r,           R,                    1,        onesuperior ] };
     key <AC08> { [          t,           T,                    2,        twosuperior ] };
     key <AC09> { [          s,           S,                    3,      threesuperior ] };
-    key <AC10> { [          p,           P,            0x1002212,          paragraph ] }; // MINUS SIGN
-    key <AC11> { [          z,           Z,                minus,          0x1000326 ] }; // COMBINING COMMA BELOW
+    key <AC10> { [          p,           P,                minus,          paragraph ] };
+    key <AC11> { [          z,           Z,            0x1002212,          0x1000326 ] }; // MINUS SIGN; COMBINING COMMA BELOW
 
     key <AB01> { [    umacron,     Umacron,   singlelowquotemark,          0x1002039 ] }; // SINGLE LEFT-POINTING ANGLE QUOTATION MARK
     key <AB02> { [    emacron,     Emacron,            braceleft,         dead_breve ] };
