@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 343 on 2022-04-02 at 10:11 (GMT-7)-->
+<!--Last edited by Ukelele version 359 on 2023-08-26 at 09:21 (GMT-7)-->
 <keyboard group="126" id="-1182" name="Rusiška Ratisė" maxout="2">
     <layouts>
         <layout first="0" last="0" mapSet="138" modifiers="30"/>
@@ -1111,9 +1111,9 @@
             <key code="36" output="&#x000D;"/>
             <key code="37" output="3"/>
             <key code="38" output="1"/>
-            <key code="39" output="-"/>
+            <key code="39" output="−"/>
             <key code="40" output="2"/>
-            <key code="41" output="−"/>
+            <key code="41" output="-"/>
             <key code="42" output="Ѕ"/>
             <key code="43" output="Ђ"/>
             <key code="44" output="+"/>
@@ -1240,7 +1240,7 @@
             <when state="diaeresis" output="⁑"/>
         </action>
         <action id="+">
-            <when state="none" output="−"/>
+            <when state="none" output="-"/>
             <when state="caron" output="₊"/>
             <when state="circumflex" output="⁺"/>
         </action>
@@ -1384,7 +1384,7 @@
             <when state="none" next="macron"/>
         </action>
         <action id="±">
-            <when state="none" output="-"/>
+            <when state="none" output="−"/>
         </action>
         <action id="´">
             <when state="none" next="acute"/>

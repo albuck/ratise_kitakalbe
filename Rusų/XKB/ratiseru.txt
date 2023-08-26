@@ -1,5 +1,5 @@
 // Lithuanian Ratise Cyrillic Phonetic keymap by Algirdas Buckus <algirdasbuckus@gmail.com>
-// last changes 2022/04/02
+// last changes 2023/08/26
 
 default partial alphanumeric_keys
 xkb_symbols "ratiseru" {
@@ -45,8 +45,8 @@ xkb_symbols "ratiseru" {
     key <AC07> { [ Cyrillic_er,  Cyrillic_ER,          1,     onesuperior ] };
     key <AC08> { [ Cyrillic_te,  Cyrillic_TE,          2,     twosuperior ] };
     key <AC09> { [ Cyrillic_es,  Cyrillic_ES,          3,   threesuperior ] };
-    key <AC10> { [ Cyrillic_pe,  Cyrillic_PE,  0x1002212,       paragraph ] }; // MINUS SIGN
-    key <AC11> { [ Cyrillic_zhe, Cyrillic_ZHE,     minus,       0x10020AA ] }; // NEW SHEQEL SIGN
+    key <AC10> { [ Cyrillic_pe,  Cyrillic_PE,      minus,       paragraph ] };
+    key <AC11> { [ Cyrillic_zhe, Cyrillic_ZHE, 0x1002212,       0x10020AA ] }; // MINUS SIGN; NEW SHEQEL SIGN
 
     key <AB01> { [ Cyrillic_yu,       Cyrillic_YU,             0x1000475,          0x1000474 ] }; // CYRILLIC LETTER IZHITSA
     key <AB02> { [ Cyrillic_io,       Cyrillic_IO,             0x1000463,          0x1000462 ] }; // CYRILLIC YAT
