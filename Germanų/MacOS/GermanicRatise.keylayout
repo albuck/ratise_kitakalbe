@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "DVORAK - QWERTY CMD" -->
-<!--Last edited by Ukelele version 2.2.8 on 2020-12-24 at 13:55 (EET)-->
+<!--Last edited by Ukelele version 359 on 2023-08-26 at 09:15 (GMT-7)-->
 <keyboard group="0" id="10218" name="Germanų Ratisė" maxout="2">
     <layouts>
-        <layout first="0" last="0" modifiers="commonModifiers" mapSet="ANSI"/>
+        <layout first="0" last="0" mapSet="ANSI" modifiers="commonModifiers"/>
     </layouts>
     <modifierMap id="commonModifiers" defaultIndex="0">
         <keyMapSelect mapIndex="0">
@@ -1141,7 +1141,7 @@
             <key code="28" output="⌫"/>
             <key code="29" output="⁒"/>
             <key code="30" output="℉"/>
-            <key code="31" output="&#x1D11E;"/>
+            <key code="31" output="𝄞"/>
             <key code="32" output="Ŋ"/>
             <key code="33" output="❇"/>
             <key code="34" output="⟀"/>
@@ -1229,6 +1229,9 @@
         </keyMap>
     </keyMapSet>
     <actions>
+        <action id="&#x000D;">
+            <when state="none" output="&#x000D;"/>
+        </action>
         <action id=" ">
             <when state="none" output=" "/>
             <when state="acute" output="´"/>
@@ -1280,25 +1283,6 @@
             <when state="diaeresis" output="‼"/>
             <when state="macron" output="ꜝ"/>
             <when state="tilde" output="⁉"/>
-        </action>
-        <action id="&#x000D;">
-            <when state="none" output="&#x000D;"/>
-        </action>
-        <action id="&#x003C;">
-            <when state="none" output="&#x003C;"/>
-            <when state="acute" output="≮"/>
-            <when state="caron" output="∧"/>
-            <when state="diaeresis" output="≪"/>
-            <when state="ringabove" output="∩"/>
-            <when state="tilde" output="≲"/>
-        </action>
-        <action id="&#x003E;">
-            <when state="none" output="&#x003E;"/>
-            <when state="acute" output="≯"/>
-            <when state="caron" output="∨"/>
-            <when state="diaeresis" output="≫"/>
-            <when state="ringabove" output="∪"/>
-            <when state="tilde" output="≳"/>
         </action>
         <action id="&#x0022;">
             <when state="none" output="&#x0022;"/>
@@ -1417,7 +1401,7 @@
             <when state="none" output=","/>
         </action>
         <action id="-">
-            <when state="none" output="-"/>
+            <when state="none" output="−"/>
             <when state="cedilla" output=" ̱"/>
             <when state="dotabove" output="∸"/>
             <when state="tilde" output="～"/>
@@ -1433,7 +1417,7 @@
             <when state="circumflex" output="⁺"/>
         </action>
         <action id="- 3">
-            <when state="none" output="-"/>
+            <when state="none" output="−"/>
             <when state="cedilla" output=" ̱"/>
             <when state="dotabove" output="∸"/>
             <when state="tilde" output="～"/>
@@ -1621,6 +1605,14 @@
             <when state="cedilla" output="̨"/>
             <when state="macron" output="̅"/>
         </action>
+        <action id="&#x003C;">
+            <when state="none" output="&#x003C;"/>
+            <when state="acute" output="≮"/>
+            <when state="caron" output="∧"/>
+            <when state="diaeresis" output="≪"/>
+            <when state="ringabove" output="∩"/>
+            <when state="tilde" output="≲"/>
+        </action>
         <action id="=">
             <when state="none" output="="/>
             <when state="breve" output="≅"/>
@@ -1640,6 +1632,14 @@
             <when state="diaeresis" output="≔"/>
             <when state="macron" output="≡"/>
             <when state="tilde" output="≃"/>
+        </action>
+        <action id="&#x003E;">
+            <when state="none" output="&#x003E;"/>
+            <when state="acute" output="≯"/>
+            <when state="caron" output="∨"/>
+            <when state="diaeresis" output="≫"/>
+            <when state="ringabove" output="∪"/>
+            <when state="tilde" output="≳"/>
         </action>
         <action id="?">
             <when state="none" output="?"/>
@@ -3181,12 +3181,12 @@
             <when state="ringabove" output="ꜜ"/>
         </action>
         <action id="−">
-            <when state="none" output="−"/>
+            <when state="none" output="-"/>
             <when state="caron" output="₋"/>
             <when state="circumflex" output="⁻"/>
         </action>
         <action id="− 1">
-            <when state="none" output="−"/>
+            <when state="none" output="-"/>
             <when state="caron" output="₋"/>
             <when state="circumflex" output="⁻"/>
         </action>
