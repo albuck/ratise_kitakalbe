@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "DVORAK - QWERTY CMD" -->
-<!--Last edited by Ukelele version 359 on 2023-07-31 at 03:13 (GMT-7)-->
+<!--Last edited by Ukelele version 359 on 2023-08-26 at 09:19 (GMT-7)-->
 <keyboard group="126" id="-21428" name="Graikų Ratisė" maxout="2">
     <layouts>
         <layout first="0" last="0" mapSet="ANSI" modifiers="commonModifiers"/>
@@ -671,7 +671,7 @@
             <key code="30" action="° 1"/>
             <key code="31" action="6 1"/>
             <key code="32" action="4 1"/>
-            <key code="33" output="¢"/>
+            <key code="33" output="Ͻ"/>
             <key code="34" action="5 1"/>
             <key code="35" output="×"/>
             <key code="36" output="&#x000D;"/>
@@ -1414,7 +1414,7 @@
             <when state="circumflex" output="⁺"/>
         </action>
         <action id="- 3">
-            <when state="none" output="-"/>
+            <when state="none" output="Ͼ"/>
             <when state="cedilla" output=" ̱"/>
             <when state="dotabove" output="∸"/>
             <when state="tilde" output="～"/>
@@ -2637,11 +2637,11 @@
             <when state="cedilla" output=" ̥"/>
         </action>
         <action id="° 1">
-            <when state="none" output="⁄"/>
+            <when state="none" output="ϡ"/>
             <when state="cedilla" output=" ̥"/>
         </action>
         <action id="° 2">
-            <when state="none" output="°"/>
+            <when state="none" output="Ͽ"/>
             <when state="caron" output="º"/>
             <when state="circumflex" output="ª"/>
         </action>
@@ -3051,12 +3051,12 @@
             <when state="ringabove" output="ꜜ"/>
         </action>
         <action id="−">
-            <when state="none" output="−"/>
+            <when state="none" output="-"/>
             <when state="caron" output="₋"/>
             <when state="circumflex" output="⁻"/>
         </action>
         <action id="− 1">
-            <when state="none" output="−"/>
+            <when state="none" output="-"/>
             <when state="caron" output="₋"/>
             <when state="circumflex" output="⁻"/>
         </action>
