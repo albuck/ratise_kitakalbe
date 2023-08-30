@@ -1,6 +1,0 @@
-        <variant>
-          <configItem>
-            <name>ratisegr</name>
-            <description>Lithuanian (Ratise, Greek Phonetic)</description>
-          </configItem>
-        </variant>
