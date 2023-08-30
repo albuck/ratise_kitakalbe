@@ -1,0 +1,6 @@
+        <variant>
+          <configItem>
+            <name>ratiselv</name>
+            <description>Lithuanian (Ratise, Latvian Phonetic)</description>
+          </configItem>
+        </variant>
