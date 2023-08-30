@@ -1,6 +1,0 @@
-        <variant>
-          <configItem>
-            <name>ratiseru</name>
-            <description>Lithuanian (Ratise, Russian Cyrillic Phonetic)</description>
-          </configItem>
-        </variant>
