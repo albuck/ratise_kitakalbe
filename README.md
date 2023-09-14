@@ -9,4 +9,6 @@
 
 -----------------------------------------
 
+__Išsamiau:__
+- [Ratisės papildomieji kitakalbiai išdėstymai](https://albuck.github.io/Ratise-layout/docs/ratises-kitakalbiai-isdestymai.html)
 - [Lietuviškas ergonomiškas klaviatūros išdėstymas ŪĖYOQJ arba Ratisė](https://albuck.github.io/Ratise-layout/)
