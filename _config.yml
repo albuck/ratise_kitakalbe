@@ -1,8 +1,0 @@
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-seo-tag
-title: Ratisė kitakalbė
-description: <em>Lietuviško klaviatūros išdėstymo Ratisė papildomieji kitakalbiai išdėstymai.</em>
-show_downloads: true
-lang: lt_LT
-encoding: UTF-8
