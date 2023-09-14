@@ -1,7 +1,7 @@
 
 # RATISĖS PAPILDOMŲJŲ KITAKALBIŲ IŠDĖSTYMŲ VALDYKLĖS
 
-Čia yra teikiamos papildomos kitakalbės Ratisės išdėstymo valdyklės: _Ratisės germaniškas išdėstymas, Ratisės graikiškas išdėstymas, Ratisės latviškas išdėstymas, Ratisės kirilica išdėstymas._
+Čia yra teikiamos papildomos kitakalbės Ratisės išdėstymo valdyklės (Windows, MacOS, Linux/Unix, Haiku): _Ratisės germaniškas išdėstymas, Ratisės graikiškas išdėstymas, Ratisės latviškas išdėstymas, Ratisės kirilica išdėstymas._
 
 Šių klaviatūros valdyklių diegimo ypatumai yra tie patys kaip ir lietuviško Ratisės išdėstymo.
 
