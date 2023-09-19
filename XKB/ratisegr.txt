@@ -7,7 +7,7 @@
 // ║        ║ ϋ ΰ ║ ή [ ║ η ] ║ ο » ║ ό  ́ ║ ϊ ΐ ║ ν 4 ║ κ 5 ║ γ 6 ║ β × ║ ψ ͻ ║ φ ϕ ║        ║
 // ╠════════╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╦═══╩═╗      ║
 // ║ CapsLock ║ Υ ̄  ║ Ε  ̔ ║ Ι  ̓ ║ Α  ̈ ║ Ω  ̑ ║ Λ Ϲ ║ Ρ ϱ ║ Τ ϑ ║ Σ Ϛ ║ Π ϖ ║ Ξ Ͼ ║ Ζ Ͽ ║      ║
-// ║          ║ υ ' ║ ε ( ║ ι ) ║ α " ║ ω  ̃ ║ λ ϲ ║ ρ 1 ║ τ 2 ║ σ 3 ║ π − ║ ξ ͼ ║ ζ ͽ ║      ║
+// ║          ║ υ ' ║ ε ( ║ ι ) ║ α " ║ ω  ̃ ║ λ ϲ ║ ρ 1 ║ τ 2 ║ σ 3 ║ π - ║ ξ ͼ ║ ζ ͽ ║      ║
 // ╠═══════╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩═════╩══════╣
 // ║ Shift ║ – ‑ ║ Ύ ϓ ║ Έ  ̆ ║ Ί  ͅ ║ Ά “ ║ Ώ ϙ ║ Σ Ϝ ║ Μ ϻ ║ Δ ₯ ║ Χ ϰ ║ Θ ± ║         Shift ║
 // ║       ║ -  ̇ ║ ύ  ͵║ έ { ║ ί } ║ ά « ║ ώ  ̀ ║ ς ϝ ║ μ 0 ║ δ . ║ χ , ║ θ + ║               ║
@@ -15,7 +15,7 @@
 // ║ Ctrl    ║ Fn  ║ OS  ║  Alt  ║                              ║ AltGr ║ OS  ║ Mn  ║   Ctrl ║
 // ║         ║     ║     ║       ║                              ║       ║     ║     ║        ║
 // ╚═════════╩═════╩═════╩═══════╩══════════════════════════════╩═══════╩═════╩═════╩════════╝
-// last changes 2023/07/30
+// last changes 2023/08/26
 
 default  partial alphanumeric_keys modifier_keys
 xkb_symbols "ratisegr" {
@@ -60,7 +60,7 @@ xkb_symbols "ratisegr" {
     key <AC07> { [  Greek_rho,      Greek_RHO,                 1,          0x10003F1 ] }; // GREEK RHO SYMBOL
     key <AC08> { [  Greek_tau,      Greek_TAU,                 2,          0x10003D1 ] }; // GREEK THETA SYMBOL
     key <AC09> { [  Greek_sigma,    Greek_SIGMA,               3,          0x10003DA ] }; // GREEK LETTER STIGMA
-    key <AC10> { [  Greek_pi,       Greek_PI,          0x1002212,          0x10003D6 ] }; // MINUS SIGN; GREEK PI SYMBOL
+    key <AC10> { [  Greek_pi,       Greek_PI,              minus,          0x10003D6 ] }; // GREEK PI SYMBOL
     key <AC11> { [  Greek_xi,       Greek_XI,          0x100037C,          0x10003FE ] }; // GREEK DOTTED LUNATE SIGMA SYMBOLS
 
     key <AB01> { [  0x10003CD,     0x100038E,          0x1000375,          0x10003D3 ] }; // GREEK LETTERS UPSILON WITH TONOS; GREEK LOWER NUMERAL SIGN; GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
