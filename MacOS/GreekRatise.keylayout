@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "DVORAK - QWERTY CMD" -->
-<!--Last edited by Ukelele version 359 on 2023-08-30 at 05:59 (GMT-7)-->
+<!--Last edited by Ukelele version 359 on 2023-08-26 at 09:19 (GMT-7)-->
 <keyboard group="126" id="-21428" name="Graikų Ratisė" maxout="2">
     <layouts>
         <layout first="0" last="0" mapSet="ANSI" modifiers="commonModifiers"/>
@@ -2637,7 +2637,7 @@
             <when state="cedilla" output=" ̥"/>
         </action>
         <action id="° 1">
-            <when state="none" output="⁄"/>
+            <when state="none" output="ϡ"/>
             <when state="cedilla" output=" ̥"/>
         </action>
         <action id="° 2">
@@ -2800,7 +2800,7 @@
             <when state="tilde" output="Ɫ"/>
         </action>
         <action id="Ł 1">
-            <when state="none" output="Ϲ"/>
+            <when state="none" output="Ł"/>
             <when state="tilde" output="Ɫ"/>
         </action>
         <action id="ł">
